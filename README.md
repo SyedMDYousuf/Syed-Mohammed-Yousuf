@@ -1,1 +1,6 @@
-# Syed-Mohammed-Yousuf
+- 👋 Hi, I’m SYED MOHAMMED YOUSUF H
+- 👀 I’m interested in Android
+- 🌱 I’m currently learning Android developement.
+- 💞️ I’m looking to collaborate on open source projects.
+- 🌱 i'M familiar with Android jetpack Architecture.
+- 📫 How to reach me - https://www.linkedin.com/in/syed-mohammed-yousuf-h-650ab7193/
