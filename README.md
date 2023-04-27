@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SYED MOHAMMED YOUSUF H
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning Android developement.
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full Stack developement.
 - 💞️ I’m looking to collaborate on open source projects.
-- 🌱 i'M familiar with Android jetpack Architecture.
+- 🌱 i'M familiar with Html Css Javascript.
 - 📫 How to reach me - https://www.linkedin.com/in/syed-mohammed-yousuf-h-650ab7193/
