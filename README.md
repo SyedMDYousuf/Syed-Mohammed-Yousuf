@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SYED MOHAMMED YOUSUF H
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Full Stack developement.
 - 💞️ I’m looking to collaborate on open source projects.
 - 🌱 i'M familiar with Html Css Javascript.
